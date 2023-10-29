@@ -1,0 +1,14 @@
+C:\Users\vini_\Documents\DEV\PROJETOS\c# project\bin\Debug\net6.0\c# project.exe
+C:\Users\vini_\Documents\DEV\PROJETOS\c# project\bin\Debug\net6.0\c# project.deps.json
+C:\Users\vini_\Documents\DEV\PROJETOS\c# project\bin\Debug\net6.0\c# project.runtimeconfig.json
+C:\Users\vini_\Documents\DEV\PROJETOS\c# project\bin\Debug\net6.0\c# project.dll
+C:\Users\vini_\Documents\DEV\PROJETOS\c# project\bin\Debug\net6.0\c# project.pdb
+C:\Users\vini_\Documents\DEV\PROJETOS\c# project\obj\Debug\net6.0\c# project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vini_\Documents\DEV\PROJETOS\c# project\obj\Debug\net6.0\c# project.AssemblyInfoInputs.cache
+C:\Users\vini_\Documents\DEV\PROJETOS\c# project\obj\Debug\net6.0\c# project.AssemblyInfo.cs
+C:\Users\vini_\Documents\DEV\PROJETOS\c# project\obj\Debug\net6.0\c# project.csproj.CoreCompileInputs.cache
+C:\Users\vini_\Documents\DEV\PROJETOS\c# project\obj\Debug\net6.0\c# project.dll
+C:\Users\vini_\Documents\DEV\PROJETOS\c# project\obj\Debug\net6.0\refint\c# project.dll
+C:\Users\vini_\Documents\DEV\PROJETOS\c# project\obj\Debug\net6.0\c# project.pdb
+C:\Users\vini_\Documents\DEV\PROJETOS\c# project\obj\Debug\net6.0\c# project.genruntimeconfig.cache
+C:\Users\vini_\Documents\DEV\PROJETOS\c# project\obj\Debug\net6.0\ref\c# project.dll
