@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Data.SqlTypes;
-using System.Formats.Asn1;
-using System.Reflection;
-
+﻿
 namespace CSharpProgram
 {
 
